@@ -11,7 +11,7 @@
 - joker: Per sconfiggere un joker la vita diventa il risultato di un roll 1d20. Va affrontato per primo quando capita. Dopo averlo affrontato si gira una nuova carta per la stanza. Da questa stanza non si può fuggire.
 
 ## carte evento (quick time event)
-Tutte le carte evento, quando si incontrano, vanno affrontate per prime della stanza. Le carte evento sono i 2 joker e i 2 assi rossi 
+Tutte le carte evento, quando si incontrano, vanno affrontate per prime della stanza, si sostituiscono dopo essere affrontate e non si può fuggire dalla stanza successiva. Le carte evento sono i 2 joker e i 2 assi rossi 
 
   ## arma
   un'arma si usa sottraendo ai danni che farebbe un nemmico il proprio valore e posizionando il nemico su di essa per tenere traccia dei nemici sconfitti. L'arma può essere usata solo su nemici strettamente più  deboli dell'ultimo sconfitto, prendendo una nuova arma si scarta tutto

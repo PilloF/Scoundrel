@@ -8,7 +8,7 @@
 - 2-A picche/fiori: 2-14 danni
 - 2-10 cuori: curano altrettanto
 - 2-10 quadri: armi
-- joker: quando capitano la stanza deve essere affrontata. per sconfiggere un joker la vita diventa il risultato di un roll 1d20
+- joker: Per sconfiggere un joker la vita diventa il risultato di un roll 1d20. Va affrontato per primo quando capita. Dopo averlo affrontato si gira una nuova carta per la stanza. Da questa stanza non si può fuggire.
 
   ## arma
   un'arma si usa sottraendo ai danni che farebbe un nemmico il proprio valore e posizionando il nemico su di essa per tenere traccia dei nemici sconfitti. L'arma può essere usata solo su nemici strettamente più  deboli dell'ultimo sconfitto, prendendo una nuova arma si scarta tutto
